@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Marbleverse",
+  "description": "The ultimate marble enthusiast hub: Play physics-based games, explore a Gemini-powered encyclopedia, and trade in the marketplace.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
